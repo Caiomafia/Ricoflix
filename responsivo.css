@@ -1,0 +1,42 @@
+
+
+
+
+
+
+@media only screen and (max-device-width: 900px) {
+     .descricao { font-size: 17px;  width: 50%;} 
+     h1{font-size:15px;}
+
+     body {
+        background: url('https://blog.nxfacil.com.br/wp-content/uploads/2017/01/buffett-1.png')  no-repeat top ;
+        background-size: 120% 56%;
+        font-family: Andale Mono, monospace;
+        color: white;
+        background-color: #000000;
+    }
+
+    #menu, .p , h3{height: auto; font-size: 25px;}
+.perfil{height:170px ; margin: 18px;} 
+.botao{}
+
+    }
+
+
+
+
+
+
+
+
+
+
+/*@media (min-width: 100px){
+ .descricao{background-color: rgba(242, 0, 0, 0.838);}
+#menu{background-color: brown; height: 500px; font-size: 150px; }
+.descricao{font-size: .8rem;}
+.botao{width: 250px; height: 250px; background-color: rgba(115, 115, 115, 0);}
+.m,li{font-size: 300px; width: auto;}
+.p{font-size: 20px;}
+.perfil{width:50% ; height:10rem; display: flex; }
+}*/
