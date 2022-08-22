@@ -1,4 +1,4 @@
-const nome = prompt('what is your name?')
+const nome = prompt('what is your name ?')
 
 const resultado = `Sair da conta ${nome}`
 
