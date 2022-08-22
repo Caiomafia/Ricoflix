@@ -1,14 +1,12 @@
 <p align="center">
-  <img alt="NetflixClone" title="NetflixClone" src=".github/logo.svg" width="400px" />
+  <img alt="NetflixClone" title="NetflixClone" src="https://images.ctfassets.net/4cd45et68cgf/7LrExJ6PAj6MSIPkDyCO86/542b1dfabbf3959908f69be546879952/Netflix-Brand-Logo.png?w=684&h=456" width="400px" />
 </p>
 
 <h3 align = "center" fontSize="60px">
   Clone da plataforma de streaming <a href="https://www.netflix.com/">Netflix</a>
 </h3>
 
-<p align="center">
-  <img alt="Interface da aplicação" src=".github/screenshot.png" width="100%">
-</p>
+
 
 <p align="center">
   <img alt="Funcionamento da aplicação" src=".github/demo.gif" width="100%">
@@ -16,22 +14,20 @@
 
 ## :rocket: Tecnologias
 
--  [React.js](https://pt-br.reactjs.org/)
--  [TypeScript](https://www.typescriptlang.org/)
--  [React-icons](https://react-icons.netlify.com/)
--  [Styled-Components](https://styled-components.com/)
--  [Axios](https://github.com/axios/axios)
+-  [Boostrap](#)
+-  [JavaScript](#)
+-  [CSS-Components](#)
+-  [HTML](#)
 
 ## 💻 Sobre o projeto
 
-Recriar a interface do [Netflix](https://www.netflix.com/) como forma de aprendizagem e treinar as skills perante o uso de TypeScript, React e CSS. Durante a construção deste projeto foi usado este [vídeo](https://www.youtube.com/watch?v=tBweoUiMsDg&ab_channel=BoniekyLacerda) como material de apoio.
+Recriar a interface do [Netflix](https://www.netflix.com/) como forma de aprendizagem e treinar as skills perante o uso de Javascript, HTML e CSS. Durante a construção deste projeto foi usado este [vídeo](https://www.youtube.com/watch?v=tBweoUiMsDg&ab_channel=BoniekyLacerda) como material de apoio.
 
-Todos os dados dos catálogos como título, descrição, capa, foto de background e avaliação foram extraídos ao usar a [API TMDb](https://www.themoviedb.org/documentation/api).
 
 ### Funcionalidades
 
 
-- [x] **Catálogo Destaque**: Selecionar um catálogo de forma aleatória e apresentá-lo na página inicial.
+- [x] **Catálogo Destaque**:  Um catálogo de forma aleatória e apresentá-lo na página final.
 
 - [x] **Efeito Menu**: Criar um efeito no background do menu conforme o scroll da tela do usuário.
 
