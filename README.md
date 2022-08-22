@@ -24,6 +24,16 @@
 Recriar a interface do [Netflix](https://www.netflix.com/) como forma de aprendizagem e treinar as skills perante o uso de Javascript, HTML e CSS. Durante a construção deste projeto foi usado este [vídeo](https://www.youtube.com/watch?v=tBweoUiMsDg&ab_channel=BoniekyLacerda) como material de apoio.
 
 
+![image](https://user-images.githubusercontent.com/91575842/185934518-10d52432-4af3-4eea-8c10-e032a0fa46a7.png)
+
+
+![image](https://user-images.githubusercontent.com/91575842/185934630-862d9db5-bdcf-4cb7-86f4-d63d5548e4de.png)
+
+
+
+
+
+
 ### Funcionalidades
 
 
@@ -37,45 +47,3 @@ Recriar a interface do [Netflix](https://www.netflix.com/) como forma de aprendi
 
 
 
-## 📥 Instalação e execução
-
-Faça um clone desse repositório e acesse o diretório.
-
-```bash
-$ git clone git@github.com:LeeonardoVargas/netflix-clone.git && cd netflix-clone
-```
-
-Para ter acesso a API você precisará de uma chave, basta criar uma conta no TMDB para ter acesso, [link do cadastro](https://www.themoviedb.org/signup). Caminho da chave: **Perfil -> Configurações -> API -> Chave da API**
-
-Renomeie o arquivo `.env.example` para `.env` e cole o valor da sua chave no campo **REACT_APP_API_KEY**. Agora instale as dependências e execute o projeto:
-
-```bash
-# Instalando as dependências
-$ yarn
-# Executanto aplicação
-$ yarn start
-```
-
-## :muscle: Contribuir
-
-Faça o `fork` e clone o projeto a partir do seu usuário.
-
-```bash
-# Clonando projeto
-$ git clone https://github.com/SEU-NOME-DE-USUARIO/netflix-clone.git
-# Criando um branch
-$ git branch minha-alteracao
-# Acessando o novo branch
-$ git checkout -b minha-alteracao
-# Adicionando os arquivos alterados
-$ git add .
-# Criando commit e a mensagem
-$ git commit -m "Corrigindo...."
-# Enviando alterações para o brach
-$ git push origin minha-alteracao
-```
-Você deve navegar até o seu repositório onde fez o fork e clicar no botão *New pull request* no lado esquerdo da página.
-
-## 📝 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
