@@ -30,7 +30,7 @@ Recriar a interface do [Netflix](https://www.netflix.com/) como forma de aprendi
 ![image](https://user-images.githubusercontent.com/91575842/185934630-862d9db5-bdcf-4cb7-86f4-d63d5548e4de.png)
 
 
-
+link:https://caiomafia.github.io/Netflix.03/#
 
 
 
