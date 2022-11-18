@@ -6,7 +6,8 @@ body {
     background-size: 100% 50%;
     font-family: Andale Mono, monospace;
     color: white;
-}
+    background-color: black;
+  }
 
 .h1 {
   margin: 0px;
